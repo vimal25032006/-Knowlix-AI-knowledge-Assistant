@@ -1,0 +1,4 @@
+Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to intelligence displayed by humans or other animals. 
+The term "artificial intelligence" is often used to describe machines that mimic cognitive functions such as learning and problem solving. 
+Recent advancements in AI have led to breakthroughs in natural language processing, computer vision, and autonomous systems.
+Some of the most popular applications of AI today include virtual assistants, recommendation engines, and generative AI models.
